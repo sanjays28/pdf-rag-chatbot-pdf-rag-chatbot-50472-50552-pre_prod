@@ -1,1 +1,3 @@
-# pdf-rag-chatbot-pdf-rag-chatbot-50472-50552-pre_prod
+# Project Repository
+
+This is the initial README file for the project.
